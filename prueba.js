@@ -9,7 +9,7 @@ if (a > b)
       }
       if (t != 4)
       {
-
+        alert("Prueba 2")
       }
   }
 
